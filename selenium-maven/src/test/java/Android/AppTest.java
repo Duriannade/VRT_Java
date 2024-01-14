@@ -33,7 +33,7 @@ public class AppTest {
         capabilities.setCapability("deviceName", deviceName);
         capabilities.setCapability("platformName", platformName);
         capabilities.setCapability("platformVersion", platformVersion);
-        capabilities.setCapability("udid", "68860795");
+        capabilities.setCapability("udid", udid);
         capabilities.setCapability("autoGrantPermissions", "true");
         capabilities.setCapability("newCommandTimeout", 90000);
         String appPath = System.getProperty("user.dir") + "/src/test/resources/BDOPay.apk";
