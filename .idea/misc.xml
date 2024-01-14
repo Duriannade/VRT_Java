@@ -4,8 +4,19 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/selenium-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/standalone-from-folder-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/appium-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/playwright/pom.xml" />
+        <option value="$PROJECT_DIR$/jdi-light-testng/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/appium-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/playwright/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>

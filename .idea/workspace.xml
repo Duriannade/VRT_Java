@@ -4,42 +4,159 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d87ee1e1-aad2-48af-954c-533232882feb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="a56f84d1-e027-4cc5-aeab-beb27609cb66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/custom/Avatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/custom/MarvelUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/entities/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/entities/Defaults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/entities/LeftMenuData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/entities/MarvelUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/SiteJdi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/custom/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/custom/MultiDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/custom/MyCheckList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/ContactFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/ContactsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/DatesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/Html5Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/JDIPerformancePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/pages/UsersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/main/java/org/mytests/uiobjects/example/site/sections/ContactForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/java/org/mytests/tests/TestsInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/java/org/mytests/tests/example/DataTableInteractTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/java/org/mytests/tests/states/States.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/java/org/mytests/tests/testng/RetryFailedTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/java/org/mytests/tests/testng/RetryListenerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/java/org/mytests/tests/testng/TestNGListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/resources/chrome.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/resources/general.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdi-light-testng/src/test/resources/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-maven/src/test/java/Android/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-maven/src/test/java/Web/GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-maven/src/test/resources/BDOPay.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standalone-from-folder-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standalone-from-folder-maven/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standalone-from-folder-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standalone-from-folder-maven/src/main/java/CompareFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standalone-from-folder-maven/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
-  <component name="ProjectId" id="2audDkDuemJn2et27gcpqCk4F5H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2aurDz1dUM41EkKhVNqfNjyRLX4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.ExampleSelenium.executor": "Run",
+    "JUnit.GoogleTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.DataTableInteractTests.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mac/IdeaProjects/VRT_Java/selenium-maven/src/test/resources",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selenium-maven/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="VRT_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="VRT_Java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTableInteractTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdi-light-testng-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mytests.tests.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mytests.tests.example" />
+      <option name="MAIN_CLASS_NAME" value="org.mytests.tests.example.DataTableInteractTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataTableInteractTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-13.0.14-azul-13.0.14-f644763e9732-6070f771" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d87ee1e1-aad2-48af-954c-533232882feb" name="Changes" comment="" />
-      <created>1705172280587</created>
+      <changelist id="a56f84d1-e027-4cc5-aeab-beb27609cb66" name="Changes" comment="" />
+      <created>1705179189648</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1705172280587</updated>
+      <updated>1705179189648</updated>
     </task>
     <servers />
   </component>
